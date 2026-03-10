@@ -1,0 +1,201 @@
+age,education,gender,income
+60,High School,Female,36347
+50,Bachelor,Female,53069
+36,High School,Female,43562
+64,Master,Female,81276
+29,Bachelor,Female,47718
+42,PhD,Male,73297
+60,Bachelor,Female,71663
+40,Master,Female,69643
+44,Master,Female,58788
+32,High School,Female,38698
+32,Bachelor,Female,50161
+45,Bachelor,Male,64811
+57,Master,Male,75696
+61,High School,Male,51878
+45,High School,Male,45820
+24,Master,Male,42696
+43,Master,Female,69311
+23,High School,Male,37374
+45,High School,Female,51772
+51,PhD,Male,76635
+59,Bachelor,Female,62268
+23,Bachelor,Male,40611
+42,Master,Male,56111
+54,Bachelor,Female,55386
+33,Master,Female,47584
+43,High School,Male,48987
+46,Bachelor,Female,41950
+48,Bachelor,Male,68192
+63,High School,Male,42915
+49,High School,Other,55499
+37,PhD,Female,65051
+36,Bachelor,Male,53366
+24,High School,Female,29485
+58,PhD,Female,91042
+28,PhD,Female,66262
+42,Bachelor,Male,59442
+30,Master,Male,57456
+60,High School,Female,54117
+39,High School,Female,45196
+25,Master,Female,51327
+46,Master,Male,57318
+35,Master,Female,51690
+30,Bachelor,Female,47305
+47,Master,Male,62568
+23,Master,Male,40624
+41,PhD,Female,75577
+49,Master,Female,59189
+28,Bachelor,Male,39038
+29,Bachelor,Male,46250
+56,Bachelor,Male,54599
+35,PhD,Male,70235
+38,PhD,Female,82840
+57,High School,Female,48225
+61,High School,Male,46142
+25,Bachelor,Female,45589
+23,Bachelor,Female,38848
+27,PhD,Female,65642
+63,High School,Female,55393
+25,High School,Male,34288
+50,Bachelor,Male,57339
+39,High School,Female,42652
+47,Bachelor,Female,65082
+55,Master,Male,67982
+31,Master,Female,58264
+57,High School,Female,55701
+35,Bachelor,Male,52326
+52,Bachelor,Female,55850
+36,Bachelor,Other,55411
+29,High School,Other,31272
+35,Bachelor,Male,48139
+44,PhD,Female,69373
+61,Bachelor,Female,65957
+42,PhD,Female,80137
+37,Bachelor,Other,51840
+39,Bachelor,Female,51951
+45,Bachelor,Female,49249
+47,Bachelor,Female,51284
+46,Master,Female,57840
+62,High School,Male,39939
+50,Bachelor,Male,54653
+36,Bachelor,Male,48211
+22,Master,Female,66037
+46,High School,Male,54376
+28,PhD,Female,69333
+30,Bachelor,Male,59506
+45,High School,Female,52845
+22,Master,Female,40954
+29,Master,Female,62904
+45,PhD,Male,78768
+32,High School,Female,36263
+38,Bachelor,Female,42508
+29,Bachelor,Male,50072
+56,PhD,Female,67525
+56,High School,Female,49871
+54,High School,Male,45297
+26,High School,Female,27446
+63,High School,Male,60632
+60,Bachelor,Male,61752
+62,Bachelor,Male,64043
+49,Bachelor,Male,61947
+28,Master,Male,55947
+30,PhD,Female,69708
+29,High School,Female,41395
+33,High School,Female,41900
+55,Bachelor,Female,61215
+54,Bachelor,Female,69698
+44,High School,Female,51451
+45,High School,Male,43985
+58,High School,Male,45541
+56,Master,Male,73831
+61,High School,Male,53795
+43,Master,Female,73753
+48,Bachelor,Male,61924
+56,High School,Female,54585
+22,Bachelor,Other,43077
+56,High School,Female,44745
+58,Bachelor,Male,59812
+35,High School,Male,42360
+24,High School,Female,23622
+22,Bachelor,Female,50450
+26,High School,Male,47402
+47,High School,Female,33830
+35,Bachelor,Male,41098
+60,High School,Male,53377
+48,Master,Male,62504
+30,High School,Male,38565
+36,Bachelor,Other,49569
+36,Bachelor,Female,43857
+47,Bachelor,Male,63230
+63,High School,Female,56287
+34,High School,Female,35641
+53,PhD,Female,87530
+60,Master,Male,68949
+53,Master,Male,61048
+25,High School,Male,35601
+51,High School,Male,49618
+58,High School,Male,54191
+44,Bachelor,Female,58178
+60,High School,Male,55096
+36,Master,Male,62852
+64,High School,Male,50557
+50,PhD,Male,72915
+57,Bachelor,Male,64954
+34,Master,Male,60460
+53,High School,Male,53421
+28,Bachelor,Male,35756
+43,Bachelor,Male,50495
+49,High School,Female,57942
+23,High School,Male,36815
+63,PhD,Male,85273
+27,Master,Male,59747
+49,High School,Female,59750
+49,Bachelor,Male,68488
+41,Bachelor,Female,43022
+51,Master,Female,60236
+32,High School,Male,28319
+49,High School,Female,42017
+46,High School,Female,45329
+60,Bachelor,Male,63452
+54,Bachelor,Male,49817
+22,High School,Female,21795
+48,PhD,Female,71411
+34,Bachelor,Other,54497
+62,High School,Male,59542
+24,High School,Female,44234
+60,High School,Male,51806
+27,PhD,Female,70468
+29,Bachelor,Female,52559
+48,Bachelor,Male,53018
+30,Bachelor,Male,49327
+58,Bachelor,Male,64952
+54,Master,Male,63545
+63,High School,Male,63352
+45,Bachelor,Female,54267
+36,High School,Female,40522
+53,High School,Female,42815
+53,High School,Female,43823
+45,High School,Female,31320
+62,High School,Female,53330
+33,High School,Female,53534
+60,PhD,Male,75888
+23,High School,Male,51357
+24,High School,Male,42485
+58,Master,Male,68158
+38,Master,Male,61163
+23,High School,Male,32689
+23,Bachelor,Female,53736
+49,Bachelor,Female,59602
+44,High School,Male,51091
+58,PhD,Male,83149
+53,Master,Male,67828
+54,High School,Female,50958
+22,High School,Male,30558
+40,PhD,Female,63286
+23,Bachelor,Male,48382
+47,Bachelor,Female,46493
+53,Bachelor,Other,56886
+27,Bachelor,Male,42860
+53,PhD,Female,82360
+25,PhD,Female,73888
